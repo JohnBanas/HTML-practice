@@ -1,0 +1,51 @@
+body {
+  background-color: hotpink;
+  text-align: center;
+}
+h1 {
+ 
+  border-style:groove;
+  color:aqua;
+  font-size: xx-large;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color: black;
+}
+#image1 {
+ 
+  object-fit: fill;
+  border-style: solid;
+  border-color: aqua;
+  border-width: 10px;
+}
+h2 {
+  background-color: black;
+  border-style:groove;
+  color:aqua;
+  font-size: xx-large;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  } 
+#table {
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+}
+#video {
+  border-style: solid;
+  border-width: 5px;
+  border-color: aqua;
+}
+a :link  {
+  color:rgb(11, 81, 230)
+}
+a :visited {
+  color: aqua;
+}
+a :hover {
+  color: sienna;
+}
+a :active {
+  color:springgreen
+}
