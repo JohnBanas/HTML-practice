@@ -52,7 +52,7 @@ fanpage.html
 fanpage.css
 ```
 
-<p>You can control the content through the HTML file; either by changing the element itself, or replacing the data between the angled brackets. Feel free to play, explore, and experiment. If you would like to see examples of how you can change the content and style, please visit the <a herf="#videoDemonstration">walkthrough video</a>I made.</p>
+<p>You can control the content through the HTML file; either by changing the element itself, or replacing the data between the angled brackets. Feel free to play, explore, and experiment. If you would like to see examples of how you can change the content and style, please visit the <a href="#videoDemonstration">walkthrough video</a> I made.</p>
 
 <p>&nbsp</p>
 
@@ -88,7 +88,7 @@ fanpage.css
 
 <p>&nbsp</p>
 
-[Live application walkthrough](#) 
+[Live application walkthrough](https://www.awesomescreenshot.com/video/4631437?key=8cec3f55f7e599f5cea0676322623f4f) 
 
 <p>&nbsp</p>
 
